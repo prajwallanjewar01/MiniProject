@@ -1,5 +1,10 @@
 # Mini-Project
 
+## 🎓 College Mini Project - 1st Year
+
+### This project is submitted as a **Mini Project** for the **First Year** of our undergraduate program at:
+ 
+
 ## 📚 Book Shopping Website
 
 A simple web-based application that allows users to browse, search, and purchase books online. This project was created as a mini-project during the first year of our college coursework.
