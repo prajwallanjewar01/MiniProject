@@ -2,7 +2,7 @@
 
 ## 🎓 College Mini Project - 1st Year
 
-### This project is submitted as a **Mini Project** for the **First Year** of our undergraduate program at:
+### This project is submitted as a **Mini Project** for the **First Year** of our undergraduate in Computer Science and Engineering program at College:
  
 
 ## 📚 Book Shopping Website
